@@ -125,12 +125,12 @@ ul{
 }
 
 #mainNav span:nth-child(1){
-margin-left:10%;
+    margin-left:10%;
 }
 
 #howToGet{
     display: block;
-margin-bottom: 100px;
+    margin-bottom: 100px;
 }
 
 
